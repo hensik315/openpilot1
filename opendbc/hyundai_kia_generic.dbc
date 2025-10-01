@@ -95,7 +95,7 @@ BO_ 1268 SPAS12: 8 SPAS
  SG_ CF_Spas_RCS_Alarm : 59|2@1+ (1.0,0.0) [0.0|3.0] ""  CLU
  SG_ CF_Spas_RRS_Alarm : 61|2@1+ (1.0,0.0) [0.0|3.0] ""  CLU
 
-BO_ 1265 CLU11: 4 CLU
+BO_ 1264 CLU11: 8 CLU
  SG_ CF_Clu_CruiseSwState : 0|3@1+ (1.0,0.0) [0.0|7.0] ""  EMS,LDWS_LKAS,SCC
  SG_ CF_Clu_CruiseSwMain : 3|1@1+ (1.0,0.0) [0.0|1.0] ""  EMS,LDWS_LKAS,SCC
  SG_ CF_Clu_SldMainSW : 4|1@1+ (1.0,0.0) [0.0|1.0] ""  EMS
